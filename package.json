@@ -1,0 +1,30 @@
+{
+  "name": "discord-hooks",
+  "version": "1.0.2",
+  "main": "./Lib/Webhook",
+  "dependencies": {
+    "snekfetch": "^3.6.4"
+  },
+  "scripts": {
+    "test": "echo 'No tests.' && exit 1"
+  },
+  "author": "Amanda Mendoza",
+  "description": "A simple Javascript file for nicely formatting Discord webhooks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AthenaYT/discord-hooks.git"
+  },
+  "keywords": [
+    "Webhooks",
+    "Discord",
+    "Bot",
+    "Error",
+    "Success",
+    "Info"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AthenaYT/discord-hooks/issues"
+  },
+  "homepage": "https://github.com/AthenaYT/discord-hooks#readme"
+}
